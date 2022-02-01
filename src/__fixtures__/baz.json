@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "required": ["directories"],
+  "properties": {
+    "directories": {
+      "properties": {
+        "bar": {
+          "type": "object",
+          "properties": {
+            "files": {
+              "properties": {
+                "bar.txt": {
+                  "type": "object",
+                  "contents": [{ "pattern": "bar=1" }]
+                }
+              },
+              "type": "object",
+              "required": ["bar.txt"]
+            }
+          }
+        }
+      },
+      "type": "object",
+      "required": ["bar"]
+    }
+  }
+}
