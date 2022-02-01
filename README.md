@@ -1,5 +1,9 @@
 # directory-schema-validator
 
+[![npm](https://img.shields.io/npm/v/@jpoehnelt/directory-schema-validator)](https://www.npmjs.com/package/@jpoehnelt/directory-schema-validator)
+![Build](https://github.com/jpoehnelt/directory-schema-validator/workflows/Build/badge.svg)
+![Release](https://github.com/jpoehnelt/directory-schema-validator/workflows/Release/badge.svg)
+
 ## Description
 
 Validate file directory structure with an extension of JSON schema.
