@@ -1,6 +1,6 @@
 # directory-schema-validator
 
-[![npm](https://img.shields.io/npm/v/@jpoehnelt/directory-schema-validator)](https://www.npmjs.com/package/@jpoehnelt/directory-schema-validator)
+[![npm](https://img.shields.io/npm/v/directory-schema-validator)](https://www.npmjs.com/package/directory-schema-validator)
 ![Build](https://github.com/jpoehnelt/directory-schema-validator/workflows/Build/badge.svg)
 ![Release](https://github.com/jpoehnelt/directory-schema-validator/workflows/Release/badge.svg)
 [![Docs](https://img.shields.io/badge/documentation-api-brightgreen)](https://jpoehnelt.github.io/directory-schema-validator/)
