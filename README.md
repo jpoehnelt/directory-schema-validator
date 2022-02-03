@@ -3,6 +3,7 @@
 [![npm](https://img.shields.io/npm/v/@jpoehnelt/directory-schema-validator)](https://www.npmjs.com/package/@jpoehnelt/directory-schema-validator)
 ![Build](https://github.com/jpoehnelt/directory-schema-validator/workflows/Build/badge.svg)
 ![Release](https://github.com/jpoehnelt/directory-schema-validator/workflows/Release/badge.svg)
+[![Docs](https://img.shields.io/badge/documentation-api-brightgreen)](https://jpoehnelt.github.io/directory-schema-validator/)
 
 ## Description
 
@@ -76,7 +77,7 @@ parse('.');
 }
 ```
 
-See the [reference documentation]() for more information about the structure of the JSON and signatures of each method.
+See the [reference documentation](https://jpoehnelt.github.io/directory-schema-validator/) for more information about the structure of the JSON and signatures of each method.
 
 > **Note**: Because this is JSONSchema, [composition](https://json-schema.org/understanding-json-schema/reference/combining.html#schema-composition) is allowed through keywords such as `allOf` or `oneOf`. 
 
