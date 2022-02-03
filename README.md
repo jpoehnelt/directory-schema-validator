@@ -6,7 +6,7 @@
 
 ## Description
 
-Validate file directory structure with an extension of JSON schema.
+Validate directory structure and file contents with an extension of JSON schema.
 
 ## Install
 
