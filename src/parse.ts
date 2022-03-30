@@ -54,7 +54,7 @@ export const treeToTreeMap = (
 
 export const parse = (
   directory: string,
-  exclude = /(node_modules|\.git|\.DS_Store|\.idea|\.vscode)/
+  exclude = /^(node_modules|\.git|\.DS_Store|\.idea|\.vscode)$/
 ): DirectoryTreeMap => {
   const attributes = ["size" as const, "type" as const, "extension" as const];
 
