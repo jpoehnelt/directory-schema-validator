@@ -1,6 +1,6 @@
 {
   "name": "directory-schema-validator",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "Validate file system structure with an extension of JSON schema.",
   "keywords": [
     "validation",
